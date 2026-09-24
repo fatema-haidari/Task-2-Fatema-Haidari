@@ -1,6 +1,6 @@
 # Expense Tracker 
 
-A simple Python program that allows users add their expenses with tile and amount and calulates the total amount.
+A simple Python program that allows users add their expenses with title and amount and calulates the total amount.
 
 ## Features
 
